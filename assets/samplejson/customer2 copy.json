@@ -1,0 +1,43 @@
+[
+	{
+	"id": 1,
+	"name": "Bismillah Biryani Restaurant",
+	"image": "food1",
+	"desc": "Try the Bib Gourmand award-winning restaurant, serving Biryani of good quality and good value. A serving of Biryani come with meticulously cooked meat, flavoured with exotic spice, and long-grained rice."
+	},
+	{
+	"id": 2,
+	"name": "Komala Vilas Restaurant",
+	"image": "food2",
+	"desc": "A South Indian Vegetarian Restaurant where Indian Prime Minister Narendra Modi and Singapore Prime Minister Lee Hsien Loong and his wife dined at. Not to be confused with Komala's Restaurant",
+	"about": "on what they ordered",
+	"tip1": "The restaurant's famous thosai (a crepe made from rice batter and lentils)",
+	"tip2": "Vadai (savoury fritters)",
+	"tip3": "Idli (a rice cake consisting of fermented black lentils), accompanied by traditional Indian drinks - sweet yoghurt lassi, mango lassi and lime juice."
+	},
+	{
+	"id": 3,
+	"name": "MTR",
+	"image":"food3",
+	"desc": "First overseas branch in Singapore by a well-known coffee house from India, serving its invention - Rava idli (fluffy and light texture, studded with cashew, coriander leaves, curry leaves and mustard seeds) comes with potato sage, coconut chutney and ghee.",
+	"about": "their idli",
+	"tip1": "This idli substituted rice with semolina as they faced rice shortage during WW2. How ingenious!"
+	},
+	{
+	"id": 4,
+	"name": "Madras New Woodlands Restaurant",
+	"image": "food4",
+	"desc": "Serving VIP Thali, an alll-in-one meal, consisting of rice/bread, different vegetarian dishes daily and dal. This dishes depends on what the chefs get fro the market.",
+	"about": "Dal",
+	"tip1": "Dal is a thick puree made from any split pulses (e.g. lentils, peas, beans) and an important source of protein for those who follow a meat-free diet."
+	},
+	{
+		"id": 5,
+		"name": "Azmi Restaurant @ Thye Chong Restaurant",
+		"image": "food5",
+		"desc": "The last hawker in the city-state selling chapati fresh and cheap!",
+		"about": "Azmi Restaurant",
+		"tip1": "Azmi Restaurant is so confident in the flour they used to make chapati (a flatbread staple in North India) that only water is added to make the chapati, without salt, sugar and oil.",
+		"tip2": "If you are up for it, try the lesser-known fried goat's brain, with a texture of a creamy scrambled egg!"
+		}
+	]

@@ -1,0 +1,20 @@
+[
+	{
+	"id": 1,
+	"name": "Cattleland2",
+	"image": "cattleland",
+	"desc": "Depicts the starring role cattle have played in everyday Life in Little India"
+	},
+	{
+	"id": 2,
+	"name": "Mahatma Gandhi Memorial",
+	"image": "gandhi",
+	"desc": "built following a visit by the first Prime Minister of India, Jawaharlal Nehru in 1950. Nehru himself laid the foundation stone on 18 June 1950. The full cost of building the memorial was raised by the Indian community in Singapore. "
+	},
+	{
+	"id": 3,
+	"name": "Traditional Trades of Little India",
+	"image": "trades",
+	"desc": "Highlights the traditional trades common to Little India, including the parrot astrologer, the garland maker and the dhoti who washed laundry."
+	}
+	]

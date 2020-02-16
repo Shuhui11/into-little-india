@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Sri Veeramakaliamman Temple",
+		"latitude": "1.308234",
+		"longitude": "103.852256"
+	},
+	{
+		"id": 2,
+		"name": "Tan Teng Niah Residences",
+		"latitude": "1.307260",
+		"longitude": "103.850828"
+	},
+	{
+		"id": 3,
+		"name": "Tekka Food Centre and Market",
+		"latitude": "1.306429",
+		"longitude": "103.850703" 
+	},
+	{
+		"id": 4,
+		"name": "Abdul Gafoor Mosque",
+		"latitude": "1.304763",
+		"longitude": "103.853718"
+	},
+	{
+		"id": 5,
+		"name": "Indian Heritage Centre",
+		"latitude": "1.305960",
+		"longitude": "103.852271"
+	},
+	{
+		"id": 6,
+		"name": "Former Kandang Kerbau Hospital",
+		"latitude": "1.308893",
+		"longitude": "103.848706"
+	},
+	{
+		"id": 7,
+		"name": "Little India Arcade",
+		"latitude": "1.306225",
+		"longitude": "103.851465"
+	},
+	{
+		"id": 8,
+		"name": "Shree Lakshminarayan Temple",
+		"latitude": "1.307955",
+		"longitude": "103.850923"
+	},
+	{
+		"id": 9,
+		"name": "Mustafa Shopping Centre",
+		"latitude": "1.309359",
+		"longitude": "103.856527"
+	},
+	{
+		"id": 10,
+		"name": "Kampong Kapor Methodist Church",
+		"latitude": "1.307657",
+		"longitude": "103.853951"
+	}
+  ]

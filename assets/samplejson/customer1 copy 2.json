@@ -1,0 +1,53 @@
+[
+	{
+		"id": 1,
+		"mainid":1,
+		"catergory": "top10",
+		"name": "Sri Veeramakaliamman Temple",
+		"latitude": "1.308234",
+		"longitude": "103.852256",
+		"image": "image01",
+		"type": "attraction",
+	"desc": "One of the oldest Hindu temple that has survived WW2, where early migrant workers from India came to pray to feel safe in a new foreign land",
+	"button": "What to look out for?",
+	"about": "how to explore the temple",
+	"tip1": "Ring the bells while entering into the temple, where the ringing is said to awaken all 5 senses.",
+	"tip2": "Walk clockwise around the temple.",
+	"tip3": "Check out the designated area where devotees smash coconuts against the floor to reveal the white pure flesh within the soiled dirty coconut husk. You are welcome to smash one too! It symbolises crushing one's own ego to be humble before god."
+
+	},
+	{
+		"id": 2,
+		"mainid":1,
+		"catergory": "top10",
+		"name": "Tan Teng Niah Residences",
+		"latitude": "1.307260",
+		"longitude": "103.850828",
+		"image": "image01",
+		"type": "food",
+	"desc": "One of the oldest Hindu temple that has survived WW2, where early migrant workers from India came to pray to feel safe in a new foreign land",
+	"button": "What to look out for?",
+	"about": "how to explore the temple",
+	"tip1": "Ring the bells while entering into the temple, where the ringing is said to awaken all 5 senses.",
+	"tip2": "Walk clockwise around the temple.",
+	"tip3": "Check out the designated area where devotees smash coconuts against the floor to reveal the white pure flesh within the soiled dirty coconut husk. You are welcome to smash one too! It symbolises crushing one's own ego to be humble before god."
+
+	},
+	{
+		"id": 3,
+		"mainid":1,
+		"catergory": "top10",
+		"name": "Tekka Food Centre and Market",
+		"latitude": "1.306429",
+		"longitude": "103.850703",
+		"image": "image01",
+		"type": "worship",
+	"desc": "One of the oldest Hindu temple that has survived WW2, where early migrant workers from India came to pray to feel safe in a new foreign land",
+	"button": "What to look out for?",
+	"about": "how to explore the temple",
+	"tip1": "Ring the bells while entering into the temple, where the ringing is said to awaken all 5 senses.",
+	"tip2": "Walk clockwise around the temple.",
+	"tip3": "Check out the designated area where devotees smash coconuts against the floor to reveal the white pure flesh within the soiled dirty coconut husk. You are welcome to smash one too! It symbolises crushing one's own ego to be humble before god."
+ 
+	}
+  ]
