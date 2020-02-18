@@ -1,16 +1,24 @@
 [{
 	"id": 1,
-	"name": "Top 10 must visit",
-	"email": "john@gmail.com",
-	"phone": "123456789"
-}, {
+	"name": "Top 10 Places to Visit",
+	"category": "top10"
+},
+	{
 	"id": 2,
-	"name": "On a food hunt",
-	"email": "harry@gmail.com",
-	"phone": "987654321"
+	"name": "Culture",
+	"category": "culture"
 }, {
 	"id": 3,
-	"name": "Instagrammable Artworks",
-	"email":"willy@gmail.com",
-	"phone": "123412345"
-}]
+	"name": "Food",
+	"category": "food"
+}, {
+	"id": 4,
+	"name": "Shop",
+	"category":"shop"
+},
+{
+	"id": 5,
+	"name": "Arts",
+	"category":"art"
+}
+]

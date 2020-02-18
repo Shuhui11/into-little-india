@@ -1,0 +1,50 @@
+[
+	{
+	"id": 1,
+	"name": "Cattleland2",
+	"latitude": "1.307746",
+	"longitude": "103.850587",
+	"image": "cattleland",
+	"desc": "Depicts the starring role cattle have played in everyday Life in Little India"
+	},
+	{
+	"id": 2,
+	"name": "Mahatma Gandhi Memorial",
+	"latitude": "1.309594",
+	"longitude": "103.853032",
+	"image": "gandhi",
+	"desc": "built following a visit by the first Prime Minister of India, Jawaharlal Nehru in 1950. Nehru himself laid the foundation stone on 18 June 1950. The full cost of building the memorial was raised by the Indian community in Singapore. "
+	},
+	{
+	"id": 3,
+	"name": "Traditional Trades of Little India",
+	"latitude":"1.307191",
+	"longitude":"103.851566",
+	"image": "trades",
+	"desc": "Highlights the traditional trades common to Little India, including the parrot astrologer, the garland maker and the dhoti who washed laundry."
+	},
+	{
+	"id": 4,
+	"name": "Book-a-meeting",
+	"latitude": "1.306823",
+	"longitude": "103.851931",
+	"image": "siyamala",
+	"desc": "Inspired by the bookstore across it, Siyamala, which has been in Little India for some 3 decades. The humble store of 30 years worth of history imports publication directly from India."
+	},
+	{
+	"id": 5,
+	"name": "Working Class Hero",
+	"latitude": "1.308812",
+	"longitude": "103.853845",
+	"image": "hero",
+	"desc": "A homage to the Rajinikath, who is a hero to the Indian community having come from a humble background to becoming a movie star."
+	},
+	{
+	"id": 6,
+	"name": "Aive@Clive",
+	"latitude": "1.306027",
+	"longitude": "103.852633",
+	"image": "alive",
+	"desc": "A traditional Indian dancer is engulfed in a burst of colour to capture the vibrancy and dynamism of the precinct."
+	}
+	]

@@ -1,43 +1,85 @@
 [
 	{
 	"id": 1,
-	"name": "Bismillah Biryani Restaurant",
-	"image": "food1",
-	"desc": "Try the Bib Gourmand award-winning restaurant, serving Biryani of good quality and good value. A serving of Biryani come with meticulously cooked meat, flavoured with exotic spice, and long-grained rice."
+	"name": "Sri Veeramakaliamman Temple",
+	"image": "image01",
+	"latitude": "1.308234",
+	"longitude": "103.852256",
+	"desc": "One of the oldest Hindu temple that has survived WW2, where early migrant workers from India came to pray to feel safe in a new foreign land",
+	"button": "What to look out for?",
+	"about": "how to explore the temple",
+	"tip1": "Ring the bells while entering into the temple, where the ringing is said to awaken all 5 senses.",
+	"tip2": "Walk clockwise around the temple.",
+	"tip3": "Check out the designated area where devotees smash coconuts against the floor to reveal the white pure flesh within the soiled dirty coconut husk. You are welcome to smash one too! It symbolises crushing one's own ego to be humble before god."
+
 	},
 	{
 	"id": 2,
-	"name": "Komala Vilas Restaurant",
-	"image": "food2",
-	"desc": "A South Indian Vegetarian Restaurant where Indian Prime Minister Narendra Modi and Singapore Prime Minister Lee Hsien Loong and his wife dined at. Not to be confused with Komala's Restaurant",
-	"about": "on what they ordered",
-	"tip1": "The restaurant's famous thosai (a crepe made from rice batter and lentils)",
-	"tip2": "Vadai (savoury fritters)",
-	"tip3": "Idli (a rice cake consisting of fermented black lentils), accompanied by traditional Indian drinks - sweet yoghurt lassi, mango lassi and lime juice."
+	"name": "Tan Teng Niah Residences",
+	"image": "image02",
+	"latitude": "1.307260",
+	"longitude": "103.850828",
+	"desc": "Last surviving Chinese Villa in Little India embodying an often overlooked story of the days when small Chinese industries operated alongside the cattle and rattan businesses at Little India",
+	"button": "What to look out for?",
+	"about": "the elements Tan built for his wife",
+	"tip1": "Richly carved pintu pagar (swinging wooden half doors in Malay)",
+	"tip2": "Over the entrance door is a glided name plate with calligraphic inscription Siew Song (elegant pine in Mandarin), where pine denotes endurance and expresses their aspirations to the Chinese.",
+	"tip3": "Five-foot way (five feet wide covered pedestrian walkway), mandated by Stamford Raffles, the founder of Modern Singapore, to protect pedestrians from the hot tropical sun and rain."
 	},
+
 	{
-	"id": 3,
-	"name": "MTR",
-	"image":"food3",
-	"desc": "First overseas branch in Singapore by a well-known coffee house from India, serving its invention - Rava idli (fluffy and light texture, studded with cashew, coriander leaves, curry leaves and mustard seeds) comes with potato sage, coconut chutney and ghee.",
-	"about": "their idli",
-	"tip1": "This idli substituted rice with semolina as they faced rice shortage during WW2. How ingenious!"
+		"id": 3,
+		"name": "Abdul Gafoor Mosque",
+		"image": "gafoor",
+		"latitude": "1.304763",
+		"longitude": "103.853718",
+		"desc": "A eclectically designed mosque to serve the spiritual needs of Tamil Muslim immigrants from South India",
+		"button":"what to look out for",
+		"about": "the architectural elements",
+		"tip1": "Above the main entrance is one of the mosque's most outstanding features: an elaborately decorated sunburst flanked by two fluted pilasters and topped by an ogee-shaped pediment. The intricate sunburst design is adorned with the names of the 25 most prominent Islamic prophets – from Adam to Muhammad – in elegant Arabic calligraphy.",
+		"tip2": "The grand cupola rises as an octagonal structure on the roof and has eight windows with colourful glass panels. Capping the cupola is a large ogee-shaped dome, which is then topped by a crescent moon and a star on its pinnacle.",
+		"tip3": "Crescent moon and star motifs – symbols widely associated with the Islamic faith – embellish the exterior walls. Minaret-like features line the roof parapet, each crowned with a miniature ogee-shaped (onion-shaped) dome and a crescent moon."
 	},
+
 	{
-	"id": 4,
-	"name": "Madras New Woodlands Restaurant",
-	"image": "food4",
-	"desc": "Serving VIP Thali, an alll-in-one meal, consisting of rice/bread, different vegetarian dishes daily and dal. This dishes depends on what the chefs get fro the market.",
-	"about": "Dal",
-	"tip1": "Dal is a thick puree made from any split pulses (e.g. lentils, peas, beans) and an important source of protein for those who follow a meat-free diet."
+		"id": 4,
+		"name": "Indian Heritage Centre",
+		"image": "IHC",
+		"latitude": "1.305960",
+		"longitude": "103.852271",
+		"desc":"First museum in Southeast Asia that focuses on the diverse heritage of the Indian community, telling the genesis of ties between South Asia and Southeast Asia to the contributions of the Indian community to modern Singapore",
+		"button":"",
+		"about":"",
+		"tip1":"",
+		"tip2":"",
+		"tip3":""
 	},
+
 	{
 		"id": 5,
-		"name": "Azmi Restaurant @ Thye Chong Restaurant",
-		"image": "food5",
-		"desc": "The last hawker in the city-state selling chapati fresh and cheap!",
-		"about": "Azmi Restaurant",
-		"tip1": "Azmi Restaurant is so confident in the flour they used to make chapati (a flatbread staple in North India) that only water is added to make the chapati, without salt, sugar and oil.",
-		"tip2": "If you are up for it, try the lesser-known fried goat's brain, with a texture of a creamy scrambled egg!"
-		}
+		"name": "Shree Lakshminarayan Temple",
+		"image": "lakshminarayan",
+		"latitude": "1.307955",
+		"longitude": "103.850923",
+		"desc":"First dedicated place of worship for North Indian Hindus, who subscribes to the spiritual value of Vedic Hindu traditions. Lakshmi is the goddess of wealth and the consort of Vishnu, while Narayan is the deity responsible for the preservation and protection of the Universe.",
+		"button":"",
+		"about":"",
+		"tip1":"",
+		"tip2":"",
+		"tip3":""
+	},
+
+	{
+		"id": 6,
+		"name": "Kampong Kapor Methodist Church",
+		"image": "methodist",
+		"latitude": "1.307657",
+		"longitude": "103.853951",
+		"desc":"Started as the straits chinese church in 1890 and had become the 2nd largest english speaking church in Singapore in 1952. Today, the Church conducts Peranakan, English, Mandarin and Chinese services as a reminder of the rich cultural diversity that characterises the Little Indian district.",
+		"button":"",
+		"about":"the worhsip services every Sunday, held in multiple languages",
+		"tip1":"English at 8am, 9.30am, 11.30am",
+		"tip2":"Peranakan at 11am",
+		"tip3":"Mandarin at 2pm, Tamil at 5.30pm"
+	}
 	]

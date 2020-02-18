@@ -1,0 +1,54 @@
+[
+	{
+		"id": 1,
+		"name": "Little India Arcade",
+		"image": "arcade",
+		"latitude": "1.306225",
+		"longitude": "103.851465",
+		"desc":"A cluster of conserved neoclassical shophouses housing an array of eateries and boutique shops offering sweets, curios and other knick-knacks",
+		"button":"",
+		"about":"",
+		"tip1":"",
+		"tip2":"",
+		"tip3":""
+	},
+	{
+		"id": 2,
+		"name": "Mustafa Shopping Centre",
+		"image": "mustafa",
+		"latitude": "1.309359",
+		"longitude": "103.856527",
+		"desc":"The only 24/7 shopping centre in Singapore that opens all year round, where you can buy almost anything at one of the best price!",
+		"button":"",
+		"about":"the game plan to exploring the 2 building, 6 levels tall mall",
+		"tip1":"Enter from Gate 1.",
+		"tip2":"Explore from bottom up!",
+		"tip3":""
+	},
+	{
+		"id": 3,
+		"name": "Haniffa Textiles Pte Ltd",
+		"image": "haniffa",
+		"latitude": "1.306209",
+		"longitude": "103.851727",
+		"desc":"Best known for its silk saris",
+		"button":"",
+		"about":"the different sarees",
+		"tip1":"",
+		"tip2":"",
+		"tip3":""
+	},
+	{
+		"id": 4,
+		"name": "Chennai Trading & Supermart",
+		"image": "chennai",
+		"latitude": "1.307468",
+		"longitude": "103.850244",
+		"desc":"Established in early 2000s to sell Indian vegetables, when there was little competition back then.",
+		"button":"",
+		"about":"3 frequently used Indian vegetables and fruits",
+		"tip1":"Drumstick - The shop sells about 100 kg of drumsticks daily!! One of the most frequently eaten vegetables among Indian households that is either stir-fried with onions, tomatoes and a masala blend, or added to a meat curry",
+		"tip2":"Methi leaves - favoured by North Indians who use it for lentil soups or blend it with spinach leaves to make curry paste for paneer (fresh cheese)",
+		"tip3":"Snake gourd - little taste on its own and is usually stir-fried with spices or added to a vegetable stew"	
+	}
+]
